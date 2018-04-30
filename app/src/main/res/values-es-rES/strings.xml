@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Salta!</string>
+    <string name="journal_title">Diario</string>
+    <string name="inbox_title">Enviar Mensaje</string>
+    <string name="action_settings">Configuración</string>
+    <string name="activity">Actividad</string>
+    <string name="start">Empieza!</string>
+    <string name="completed">Completado</string>
+    <string name="date">Fecha</string>
+    <string name="complete_lessons">Completa lecciones y recibe premios!</string>
+    <string name="lesson_1">Lección 1:</string>
+    <string name="activities_title">Actividades</string>
+    <string name="warm_up">Calentamiento</string>
+    <string name="crawl">Gatear</string>
+    <string name="reach">Alcanzar</string>
+    <string name="one_min">1 min</string>
+    <string name="five_min">5 min</string>
+    <string name="rewards_title">Premios</string>
+    <string name="level_one">Nivel 1</string>
+    <string name="level_two">Nivel 2</string>
+    <string name="level_three">Nivel 3</string>
+    <string name="level_four">Nivel 4</string>
+    <string name="chapter_1">Capítulo 1</string>
+    <string name="chapter_2">Capítulo 2</string>
+    <string name="chapter_3">Capítulo 3</string>
+    <string name="chapter_4">Capítulo 4</string>
+    <string name="chapter_5">Capítulo 5</string>
+    <string name="chapter_6">Capítulo 6</string>
+    <string name="chapter_7">Capítulo 7</string>
+    <string name="chapter_8">Capítulo 8</string>
+    <string name="send_message">Enviar Mensaje</string>
+    <string name="to_email_address">A: Dirección de Correo Electrónico</string>
+    <string name="subject_line">Línea de Asunto</string>
+    <string name="message">Mensaje</string>
+    <string name="send">Enviar</string>
+    <string name="start_cap">EMPEZAR</string>
+</resources>
